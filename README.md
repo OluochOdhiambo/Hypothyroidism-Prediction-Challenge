@@ -2,6 +2,7 @@
 #### This notebook contains different classification models for predicting the whether or not a patient has a hypothyroid, 10/08/2020.
 #### By **{OluochOdhiambo}**
 ## Task Description
+Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. Use the healthcare datasets provided to accomplish the following:
 i. Provide insight on the data set through exploratory data analysis.
 
 ii. Create a multiple classification models to predict an individual's hypothyroid status based on the available information. The models include: 
@@ -16,6 +17,8 @@ Support Vector Machine
 * Support Classification Model(Polynomial kernel)
 * Support Classification Model(Sigmoid kernel)
 * Support Classification Model(RBF kernel)
+
+iii. Identify the key factors in predicting a patient's hypothyroid status.
 
 ## Setup/Installation Requirements
 * Github
